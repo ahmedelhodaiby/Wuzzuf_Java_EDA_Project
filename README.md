@@ -1,9 +1,10 @@
 # Wuzzuf_Java_EDA_Project
- Exploratory data analysis on Wuzzuf datasetUML & Java Programming Course – Final Exercise
-Exercise Description
+Exploratory data analysis on Wuzzuf datasetUML & Java Programming Course – Final Exercise
 
 Data Set:
+
 Wuzzuf jobs in Egypt data set at Kaggle
+
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 Tasks:
