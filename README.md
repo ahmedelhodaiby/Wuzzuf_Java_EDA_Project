@@ -30,3 +30,6 @@ Tasks:
 
 11.	Factorize the YearsExp feature and convert it to numbers in new col. (Bonus)
 12.	Apply K-means for job title and companies (Bonus)
+
+---
+PS Update path in .bat file and run before bulding the project file or the server won't be intitated
